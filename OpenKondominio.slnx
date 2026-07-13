@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="OpenKondominio.Api/OpenKondominio.Api.csproj" />
+  <Project Path="OpenKondominio.Tests/OpenKondominio.Tests.csproj" />
+</Solution>

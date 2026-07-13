@@ -1,0 +1,8 @@
+version: '3.4'
+services:
+  api:
+    build:
+      context: .
+      dockerfile: OpenKondominio.Api/Dockerfile
+    ports:
+      - "8080:80"
